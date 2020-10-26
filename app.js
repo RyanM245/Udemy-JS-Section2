@@ -50,3 +50,34 @@
 // console.log(num)
 // num.push(10)
 // console.log(num)
+
+////////DATA TYPES
+
+// PRIMITIVE
+
+// string
+// const name = 'Ryan'
+// //number
+// const age = 24
+// // Boolean 
+// const hadKids = false
+// //Null
+// const car = null
+// //undifined
+// let test
+// //Symbol
+// const sym = Symbol()
+
+// //Reference Type
+
+// //array
+// const hobbies = ['games', 'movies']
+// //object literal
+// const address = {
+//   city: 'Vineyard',
+//   state: 'UT'
+// }
+// const today = new Date()
+// // console.log(today)
+
+// console.log(typeof address)
