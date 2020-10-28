@@ -93,7 +93,7 @@
 // //date to  string
 // val = String(new Date())
 // //array to sting
-// val = String([1,2,3,4])
+val = String([1,2,3,4])
 
 // toString()
 // val = (5).toString()
@@ -123,31 +123,31 @@
 // console.log(typeof sum)
 
 // Numbers and Math Object //
-const num1 = 100;
-const num2 = 50
-let val;
+// const num1 = 100;
+// const num2 = 60
+// let val;
 
-//Simple math with num
-val = num1 + num2
-val = num1 * num2
-val = num1 - num2
-val = num1 / num2
-val = num1 % num2
+// //Simple math with num
+// val = num1 + num2
+// val = num1 * num2
+// val = num1 - num2
+// val = num1 / num2
+// val = num1 % num2
 
-// Math Object 
-val = Math.PI;
-val = Math.E
-val = Math.round(2.3)
-val = Math.ceil(2.4)
-val = Math.floor(2.8)
-val = Math.sqrt(64)
-val = Math.abs(-3)
-val = Math.pow(8, 2)
-val = Math.min(2,33,654,55,6)
-val = Math.max(1,654,4,5,6,4,7,5,65,4654)
-val = Math.random()
+// // Math Object 
+// val = Math.PI;
+// val = Math.E
+// val = Math.round(2.3)
+// val = Math.ceil(2.4)
+// val = Math.floor(2.8)
+// val = Math.sqrt(64)
+// val = Math.abs(-3)
+// val = Math.pow(8, 2)
+// val = Math.min(2,33,654,55,6)
+// val = Math.max(1,654,4,5,6,4,7,5,65,4654)
+// val = Math.random()
 
-val = Math.floor(Math.random()*20+1)
+// val = Math.floor(Math.random()*20+1)
 
 
 console.log(val)
