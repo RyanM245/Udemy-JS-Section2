@@ -93,7 +93,7 @@
 // //date to  string
 // val = String(new Date())
 // //array to sting
-val = String([1,2,3,4])
+// val = String([1,2,3,4])
 
 // toString()
 // val = (5).toString()
@@ -101,7 +101,7 @@ val = String([1,2,3,4])
 
 // string to num
 // val = Number("5")
-// val = Number(true)
+val = Number(true)
 // val = Number(null)
 // val = Number(false)
 // val = Number('hello')
@@ -111,7 +111,7 @@ val = String([1,2,3,4])
 // val = parseFloat('100.30')
 // Output
 // console.log(val)
-// console.log(typeof val)
+console.log(typeof val)
 // // console.log(val.length)
 // console.log(val.toFixed())
 
