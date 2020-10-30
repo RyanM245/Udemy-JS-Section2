@@ -87,7 +87,7 @@
 
 // // Num to string
 // val = String(555);
-// val = String(4+4)
+val = String(4+4)
 // //Bool to string
 // val = String(true)
 // //date to  string
@@ -101,7 +101,7 @@
 
 // string to num
 // val = Number("5")
-val = Number(true)
+// val = Number(true)
 // val = Number(null)
 // val = Number(false)
 // val = Number('hello')
@@ -111,7 +111,7 @@ val = Number(true)
 // val = parseFloat('100.30')
 // Output
 // console.log(val)
-console.log(typeof val)
+// console.log(typeof val)
 // // console.log(val.length)
 // console.log(val.toFixed())
 
@@ -139,7 +139,7 @@ console.log(typeof val)
 // val = Math.E
 // val = Math.round(2.3)
 // val = Math.ceil(2.4)
-// val = Math.floor(2.8)
+// val = Math.floor(2.4)
 // val = Math.sqrt(64)
 // val = Math.abs(-3)
 // val = Math.pow(8, 2)
