@@ -87,7 +87,7 @@
 
 // // Num to string
 // val = String(555);
-val = String(4+4)
+// val = String(4+4)
 // //Bool to string
 // val = String(true)
 // //date to  string
@@ -142,7 +142,7 @@ val = String(4+4)
 // val = Math.floor(2.4)
 // val = Math.sqrt(64)
 // val = Math.abs(-3)
-// val = Math.pow(8, 2)
+// val = Math.pow(2, 2)
 // val = Math.min(2,33,654,55,6)
 // val = Math.max(1,654,4,5,6,4,7,5,65,4654)
 // val = Math.random()
