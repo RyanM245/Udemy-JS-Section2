@@ -140,9 +140,9 @@
 // val = Math.round(2.3)
 // val = Math.ceil(2.4)
 // val = Math.floor(2.4)
-// val = Math.sqrt(64)
-// val = Math.abs(-3)
-// val = Math.pow(2, 2)
+val = Math.sqrt(64)
+val = Math.abs(-3)
+val = Math.pow(2, 2)
 // val = Math.min(2,33,654,55,6)
 // val = Math.max(1,654,4,5,6,4,7,5,65,4654)
 // val = Math.random()
@@ -150,4 +150,4 @@
 // val = Math.floor(Math.random()*20+1)
 
 
-// console.log(val)
+console.log(val)
