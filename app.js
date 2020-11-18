@@ -137,7 +137,7 @@
 // // Math Object 
 // val = Math.PI;
 // val = Math.E
-// val = Math.round(2.3)
+val = Math.round(2.6)
 // val = Math.ceil(2.4)
 val = Math.floor(2.4)
 // val = Math.sqrt(64)
